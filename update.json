@@ -1,11 +1,11 @@
 {
-    "sha256":  "6af45dac245c7329448e85bf2c757bfd26f757460e300dd43c1772dfd8d81431",
+    "sha256":  "fa1e3848e1735c08ce3fd6e47674efb2433bb51c07a372f67d03fa3556a81d1d",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.12.0/DeepSeekHarness-Setup-v1.12.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.13.0/DeepSeekHarness-Setup-v1.13.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.12.0",
+    "version":  "1.13.0",
     "minVersion":  "",
-    "notes":  "图标统一跟随 Windows 浅色/深色模式(桌面图标+系统托盘+任务栏:浅色黑鲸、深色白鲸,切换系统主题即时生效);新增图标诊断日志与「重新应用图标」按钮;任务栏固定快捷方式图标同步"
+    "notes":  "修复检查更新蓝点不刷新:每次打开/切回设置窗、窗口获得焦点、以及窗口开启期间每 3 分钟都会重新检查;检查触发原因写入日志;设置页补充网络/代理排查提示"
 }
