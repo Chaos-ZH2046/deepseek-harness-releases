@@ -1,0 +1,11 @@
+{
+    "sha256":  "b1279f08a9e1c2219d56e9cf6cd8223b6b57637a73629b6efa64cd340122b5bc",
+    "urls":  [
+                 {
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.7.0/DeepSeekHarness-Setup-v1.7.0-win10-x64.exe"
+                 }
+             ],
+    "version":  "1.7.0",
+    "minVersion":  "",
+    "notes":  "自动更新首发:客户端可自动检查、下载并安装新版本"
+}
