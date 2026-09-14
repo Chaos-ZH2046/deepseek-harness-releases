@@ -1,11 +1,11 @@
 {
-    "sha256":  "97b4b921359e8052696fed4e142069fba531bfda25d8a4ccfaa6f0c0334596e7",
+    "sha256":  "ec4366ed75e912f9d70217018643044d89456656423124f1ad45930dfc4eb34f",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.8.0/DeepSeekHarness-Setup-v1.8.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.9.0/DeepSeekHarness-Setup-v1.9.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.8.0",
+    "version":  "1.9.0",
     "minVersion":  "",
-    "notes":  "新增「个性化设置」入口(设置面板内直接打开客户端设置)、主界面右键菜单(复制/粘贴/链接/图片)、自动更新内置默认源(装完即用无需配置)"
+    "notes":  "图标主题:新增黑色/白色鲸鱼图标——桌面图标可在设置中选择;客户端窗口、标题栏与系统托盘跟随日间/夜间模式自动反色(日间黑色、夜间白色)"
 }
