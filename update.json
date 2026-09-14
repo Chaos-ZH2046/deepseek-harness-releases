@@ -1,11 +1,11 @@
 {
-    "sha256":  "e9753c34b7e3e398ff5cf566b81968b66165120dea3e793e515fbc4ae415c8ba",
+    "sha256":  "e70d02dc8e1e71d0f8b71adf48776054a64d05f67123925176e90faa4bf95739",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.10.0/DeepSeekHarness-Setup-v1.10.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.11.0/DeepSeekHarness-Setup-v1.11.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.10.0",
+    "version":  "1.11.0",
     "minVersion":  "",
-    "notes":  "检查更新按钮新增蓝点提示:有可用新版本时按钮右上角显示小蓝点,无更新或已忽略该版本时不显示"
+    "notes":  "修复安装最后一步打不开(安装显示进度+启动立即响应+更新中防误开)、托盘与任务栏改用 DeepSeek 蓝图标(桌面图标可选黑/白/蓝)、个性化设置入口即时显示、设置项按使用频率重排、界面卡死可自愈(崩溃/无响应自动重载+托盘与右键菜单重载入口)"
 }
