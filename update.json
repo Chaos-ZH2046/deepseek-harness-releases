@@ -1,11 +1,11 @@
 {
-    "sha256":  "fa1e3848e1735c08ce3fd6e47674efb2433bb51c07a372f67d03fa3556a81d1d",
+    "sha256":  "26a9aec080781b591c85fde1cf6a58cb6d22db692db67501f4e669786721d822",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.13.0/DeepSeekHarness-Setup-v1.13.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.14.0/DeepSeekHarness-Setup-v1.14.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.13.0",
+    "version":  "1.14.0",
     "minVersion":  "",
-    "notes":  "修复检查更新蓝点不刷新:每次打开/切回设置窗、窗口获得焦点、以及窗口开启期间每 3 分钟都会重新检查;检查触发原因写入日志;设置页补充网络/代理排查提示"
+    "notes":  "界面优化:设置窗去掉蓝色原生标题栏(与主窗一致的深色条与拖拽标题区)、滚动条改为深色细样式、内容分区分组并精简说明为单行、默认尺寸加宽至 560x820 且可调整记忆;标题栏去掉设置按钮;托盘菜单「设置」更名「个性化设置」;更新源地址区块暂时隐藏(留待后续计划)"
 }
