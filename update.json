@@ -1,11 +1,11 @@
 {
-    "sha256":  "26a9aec080781b591c85fde1cf6a58cb6d22db692db67501f4e669786721d822",
+    "sha256":  "d0fbc9463bc3919d4148d0fe7c0f51160b5f0401a54cb866befcaaa2ec90096a",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.14.0/DeepSeekHarness-Setup-v1.14.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.15.0/DeepSeekHarness-Setup-v1.15.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.14.0",
+    "version":  "1.15.0",
     "minVersion":  "",
-    "notes":  "界面优化:设置窗去掉蓝色原生标题栏(与主窗一致的深色条与拖拽标题区)、滚动条改为深色细样式、内容分区分组并精简说明为单行、默认尺寸加宽至 560x820 且可调整记忆;标题栏去掉设置按钮;托盘菜单「设置」更名「个性化设置」;更新源地址区块暂时隐藏(留待后续计划)"
+    "notes":  "图标与外观统一跟随 DeepSeek Harness 自己的外观设置(浅色/深色/跟随系统):在 DSH 设置面板选「外观」后,桌面图标、系统托盘、任务栏与客户端标题栏即时同步;客户端定时监听该设置(5 秒),不再需要单独配置"
 }
