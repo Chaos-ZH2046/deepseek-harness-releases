@@ -1,11 +1,11 @@
 {
-    "sha256":  "b1279f08a9e1c2219d56e9cf6cd8223b6b57637a73629b6efa64cd340122b5bc",
+    "sha256":  "97b4b921359e8052696fed4e142069fba531bfda25d8a4ccfaa6f0c0334596e7",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.7.0/DeepSeekHarness-Setup-v1.7.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.8.0/DeepSeekHarness-Setup-v1.8.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.7.0",
+    "version":  "1.8.0",
     "minVersion":  "",
-    "notes":  "自动更新首发:客户端现在可以自动检查、下载并安装新版本(v1.6.0 及更早需手动安装本版一次)"
+    "notes":  "新增「个性化设置」入口(设置面板内直接打开客户端设置)、主界面右键菜单(复制/粘贴/链接/图片)、自动更新内置默认源(装完即用无需配置)"
 }
