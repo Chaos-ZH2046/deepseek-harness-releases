@@ -1,11 +1,11 @@
 {
-    "sha256":  "63c8d7b97db440ebe52c63326ef7488e1209b84156ccc89eb10930c8700c1845",
+    "sha256":  "a34ff1e7599480d27bd4a22e64c4549b9da70c5e5eb2133df2ad6327e0df973c",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.16.0/DeepSeekHarness-Setup-v1.16.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.0/DeepSeekHarness-Setup-v1.17.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.16.0",
+    "version":  "1.17.0",
     "minVersion":  "",
-    "notes":  "新增会话管理:星标自动置顶、归档会话一键恢复、手动存档(原始+解码+Markdown)、打开备份目录;新增归档自动备份(检测到会话被归档立即存档并通知);外观与图标跟随 DSH 设置(浅色黑鲸/深色白鲸);设置窗焕新与安装向导默认勾选修复"
+    "notes":  "v1.17.0 重点会话:把重要对话标记为重点后自动置顶,并在会话行左侧显示蓝色勾边与淡蓝底色,一眼可见。鼠标悬停会话即可点 ☆ 标记/取消(设置 → 会话 → 会话管理 同样可操作)。"
 }
