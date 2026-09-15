@@ -1,11 +1,11 @@
 {
-    "sha256":  "b818051cce9110fc14f643a1b70163848d3e0e5a2e3f3923547730535b023057",
+    "sha256":  "63c8d7b97db440ebe52c63326ef7488e1209b84156ccc89eb10930c8700c1845",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.15.1/DeepSeekHarness-Setup-v1.15.1-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.16.0/DeepSeekHarness-Setup-v1.16.0-win10-x64.exe"
                  }
              ],
-    "version":  "1.15.1",
+    "version":  "1.16.0",
     "minVersion":  "",
-    "notes":  "安装程序修复:附加任务页的「创建桌面图标」「创建开始菜单图标」现在每次安装都默认勾选(此前会记住上次的选择,取消过一次就再也不会默认勾选)"
+    "notes":  "新增会话管理:星标自动置顶、归档会话一键恢复、手动存档(原始+解码+Markdown)、打开备份目录;新增归档自动备份(检测到会话被归档立即存档并通知);外观与图标跟随 DSH 设置(浅色黑鲸/深色白鲸);设置窗焕新与安装向导默认勾选修复"
 }
