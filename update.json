@@ -1,11 +1,11 @@
 {
-    "sha256":  "dbca8a79e5704871005c4390cc2c8061fc8ef246fd595abfe781a3116b24dff2",
+    "sha256":  "16f82ebb70b8d13669e3cdff0bc22ef50cc07dfab5d5240fcd1ed4adc5251025",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.0/DeepSeekHarness-Setup-v1.17.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.1/DeepSeekHarness-Setup-v1.17.1-win10-x64.exe"
                  }
              ],
-    "version":  "1.17.0",
+    "version":  "1.17.1",
     "minVersion":  "",
-    "notes":  "v1.17.0 重点会话:把重要对话标记为重点后自动置顶,并在会话行左侧显示蓝色勾边与淡蓝底色,一眼可见。鼠标悬停会话即可点 ☆ 标记/取消(设置 → 会话 → 会话管理 同样可操作)。"
+    "notes":  "v1.17.1 修复安装时无法关闭正在运行的客户端:现在会明确提示\"即将关闭客户端,请确认没有进行中的会话\",并提供继续/取消;选继续会干净关闭客户端与内置引擎后继续安装,选取消则停在向导里等你手动关闭并重新检测。另修复静默自动更新会被提示框卡死的问题。"
 }
