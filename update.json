@@ -1,11 +1,11 @@
 {
-    "sha256":  "94aeb825aed95c97fc66f5abced460a51b4736ad6c088282f6c6097cd4f49962",
+    "sha256":  "1f1e51744d1e8212ebd132a4a77f0154418ebb4f9e34c7bc528293f5eadb2945",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.2/DeepSeekHarness-Setup-v1.17.2-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.3/DeepSeekHarness-Setup-v1.17.3-win10-x64.exe"
                  }
              ],
-    "version":  "1.17.2",
+    "version":  "1.17.3",
     "minVersion":  "",
-    "notes":  "v1.17.2 两项改进:(1) 重点标记的 ★ 从行尾移到标题前,不再压住悬停出现的「…」菜单;(2) 安装时客户端会自动判断有没有正在进行的对话——没有任务就安静地关闭客户端直接安装,有任务则提示你在跑什么并给出「等任务结束后继续 / 仍然关闭 / 取消」三个选择。另修复两个会让标记时有时无的隐患。"
+    "notes":  "v1.17.3 现在可以把文档拖进对话了:doc/docx/pdf/xlsx/pptx 等任何文件拖进窗口即可——文件会复制到当前工作区的 .dsh-inbox,docx/xlsx/pptx 还会自动提取成可读的 .md 文本,并在输入框里插好 @ 引用,回车发送模型就能读。图片仍按原方式作为附件,不受影响。"
 }
