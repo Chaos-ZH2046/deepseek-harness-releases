@@ -1,11 +1,11 @@
 {
-    "sha256":  "1f1e51744d1e8212ebd132a4a77f0154418ebb4f9e34c7bc528293f5eadb2945",
+    "sha256":  "78c7937e66232bef3bdc7217a9a9b45257c5cd2f9daa55e879d1caa1a25e3d64",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.3/DeepSeekHarness-Setup-v1.17.3-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.4/DeepSeekHarness-Setup-v1.17.4-win10-x64.exe"
                  }
              ],
-    "version":  "1.17.3",
+    "version":  "1.17.4",
     "minVersion":  "",
-    "notes":  "v1.17.3 现在可以把文档拖进对话了:doc/docx/pdf/xlsx/pptx 等任何文件拖进窗口即可——文件会复制到当前工作区的 .dsh-inbox,docx/xlsx/pptx 还会自动提取成可读的 .md 文本,并在输入框里插好 @ 引用,回车发送模型就能读。图片仍按原方式作为附件,不受影响。"
+    "notes":  "v1.17.4 新增「手机通知」:DSH 任务跑完后自动推送到手机(飞书/企业微信/钉钉群机器人)。默认只推超过 2 分钟的任务,可勾选「忽略时长,每次任务结束都推送」;推送含会话标题、耗时、轮次与可选的结果摘要;失败自动重试,Webhook 密钥只存本机且不进日志。"
 }
