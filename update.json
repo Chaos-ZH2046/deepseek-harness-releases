@@ -1,11 +1,11 @@
 {
-    "sha256":  "2046020315f8e504241750750f4079e2e4e7b72a3558f2b81b5d6664e2174fa5",
+    "sha256":  "63aa2f045e8040e557bfd2eb95712fcae362f313408df1b4e74ceebe38055624",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.18.0/DeepSeekHarness-Setup-v1.18.0-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.18.1/DeepSeekHarness-Setup-v1.18.1-win10-x64.exe"
                  }
              ],
-    "version":  "1.18.0",
+    "version":  "1.18.1",
     "minVersion":  "",
-    "notes":  "新增「飞书对话」:打开飞书给机器人像聊天一样说一句要做什么,电脑就在对应工作区开会话把活干完,结果直接回到这个会话里;群里 @机器人 即可,单聊不用任何前缀(老写法 !dsh xxx 也认)。中文命令词:状态 / 停 / 帮助。安全边界:群里只有你本人能下指令,默认 workspace-write 且提权 fail-closed,一条「停」真杀进程并清排队,按消息去重,不会和任务完成推送重复通知。开启方式:设置 -\u003e 飞书对话 填 App ID/Secret 并打开开关,然后在飞书里发一条消息、回来一键认领操作者/放行群。上一版的「指令目录」通道保留不变。"
+    "notes":  "新增「飞书对话」:打开飞书给机器人像聊天一样说一句要做什么,电脑就在对应工作区开会话把活干完,结果直接回到这个会话里;群里 @机器人 即可,单聊不用任何前缀(老写法 !dsh xxx 也认)。中文命令词:状态 / 停 / 帮助。安全边界:群里只有你本人能下指令,默认 workspace-write 且提权 fail-closed,一条「停」真杀进程并清排队,按消息去重,不会和任务完成推送重复通知。开启方式:设置 -\u003e 飞书对话 填 App ID/Secret 并打开开关,然后在飞书里发一条消息、回来一键认领操作者/放行群。上一版的「指令目录」通道保留不变。(1.18.1 修掉回复偶发被网络抖动吞掉的问题:回复失败会自动重试一次)"
 }
