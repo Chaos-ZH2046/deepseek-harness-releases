@@ -1,11 +1,11 @@
 {
-    "sha256":  "78c7937e66232bef3bdc7217a9a9b45257c5cd2f9daa55e879d1caa1a25e3d64",
+    "sha256":  "6070a3f8409f6aab350f9ad34cc2c412d241d1eed6a12963e6bf99aeb009ecb6",
     "urls":  [
                  {
-                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.4/DeepSeekHarness-Setup-v1.17.4-win10-x64.exe"
+                     "url":  "https://github.com/Chaos-ZH2046/deepseek-harness-releases/releases/download/v1.17.5/DeepSeekHarness-Setup-v1.17.5-win10-x64.exe"
                  }
              ],
-    "version":  "1.17.4",
+    "version":  "1.17.5",
     "minVersion":  "",
-    "notes":  "v1.17.4 新增「手机通知」:DSH 任务跑完后自动推送到手机(飞书/企业微信/钉钉群机器人)。默认只推超过 2 分钟的任务,可勾选「忽略时长,每次任务结束都推送」;推送含会话标题、耗时、轮次与可选的结果摘要;失败自动重试,Webhook 密钥只存本机且不进日志。"
+    "notes":  "新增「远程指令」:把一行 !dsh 你的要求 写成 txt 丢进指令目录(目录可指到云同步盘,手机上就能派活),客户端会在该工作区新建会话把活干完,并把结果推回手机。支持 !dsh status / stop / help;默认 workspace-write 权限档(需要提权的动作会被直接拒绝,不会静默越权);默认并发 1、排队 3 条、每分钟 6 条、单任务 60 分钟超时;!dsh stop 会真停(杀进程树并清空排队)。入口:设置 → 远程指令。"
 }
